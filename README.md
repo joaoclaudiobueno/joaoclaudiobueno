@@ -28,5 +28,5 @@
 ### Fale comigo no linkedin!!
 [<img align="left" alt="João | LinkedIn" width="22px" src="linkedin.png" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/joão-claudio-bueno/
+[linkedin]: https://www.linkedin.com/in/joão-claudio-bueno
     
